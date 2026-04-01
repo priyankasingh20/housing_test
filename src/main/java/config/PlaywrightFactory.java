@@ -1,4 +1,4 @@
-package org.example.craigslist.config;
+package config;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
